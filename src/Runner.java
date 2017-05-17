@@ -8,6 +8,8 @@ public class Runner {
 		Converter myConverter = new Converter();
 		
 		JOptionPane.showMessageDialog(null, "Welcome, this program converts X to Y");
+		
+		//Start of Bugfix 001
 
 	}
 
